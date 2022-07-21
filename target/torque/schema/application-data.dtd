@@ -1,0 +1,12 @@
+<!ELEMENT dataset (
+    Table1)*>
+<!ATTLIST dataset
+    name CDATA #REQUIRED
+>
+
+<!ELEMENT Table1 EMPTY>
+<!ATTLIST Table1
+    TestCol1 CDATA #IMPLIED
+    TestCol2 CDATA #IMPLIED
+>
+

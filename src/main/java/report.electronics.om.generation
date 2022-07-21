@@ -1,0 +1,125 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    Peers generated in package electronics.om
+    Objects generated in package electronics.om
+    Managers generated in package electronics.om
+    Beans generated in package electronics.om.bean
+
+    Created dir: /opt/electronics/src/main/java/electronics/om/
+
+    Failed to create dir or dir already exists: /opt/electronics/src/main/java/electronics/om/
+
+
+
+
+        table1
+
+        
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    Peers generated in package electronics.om
+    Objects generated in package electronics.om
+    Managers generated in package electronics.om
+    Beans generated in package electronics.om.bean
+
+    Failed to create dir or dir already exists: /opt/electronics/src/main/java/electronics/om/
+
+    Failed to create dir or dir already exists: /opt/electronics/src/main/java/electronics/om/
+
+
+
+
+        TURBINE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_GROUP
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+
+          
+
+          
+
+
+

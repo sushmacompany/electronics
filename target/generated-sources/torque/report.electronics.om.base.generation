@@ -1,0 +1,151 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package electronics.om
+    BaseObjects generated in package electronics.om
+    BaseManagers generated in package electronics.om
+    BaseBeans generated in package electronics.om.bean
+    Maps generated in package electronics.om.map
+
+    Created dir: /opt/electronics/target/generated-sources/torque/electronics/om/
+
+    Failed to create dir or dir already exists: /opt/electronics/target/generated-sources/torque/electronics/om/
+
+    Created dir: /opt/electronics/target/generated-sources/torque/electronics/om/map/
+
+
+
+    
+
+        table1
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package electronics.om
+    BaseObjects generated in package electronics.om
+    BaseManagers generated in package electronics.om
+    BaseBeans generated in package electronics.om.bean
+    Maps generated in package electronics.om.map
+
+    Failed to create dir or dir already exists: /opt/electronics/target/generated-sources/torque/electronics/om/
+
+    Failed to create dir or dir already exists: /opt/electronics/target/generated-sources/torque/electronics/om/
+
+    Failed to create dir or dir already exists: /opt/electronics/target/generated-sources/torque/electronics/om/map/
+
+
+
+    
+
+        TURBINE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_GROUP
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+    
+
+;
+    Created dir: /opt/electronics/target/generated-sources/torque/org/apache/torque/linkage/
+    
+      
+
